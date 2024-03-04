@@ -56,7 +56,7 @@ def create_customer_reviews(all_data):
 
     return customer_reviews
 
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv("dashboard/all_data.csv")
 
 datetime_columns = ["shipping_limit_date", "review_creation_date", "review_answer_timestamp", "order_purchase_timestamp", "order_approved_at", "order_delivered_carrier_date", "order_delivered_customer_date", "order_estimated_delivery_date"]
 all_df.sort_values(by="order_approved_at", inplace=True)
