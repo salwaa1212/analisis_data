@@ -24,6 +24,6 @@ streamlit run dashboard.py
 
 Kunjungi Website ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
-[Project Analisis Data]()
+[Project Analisis Data](https://4yrdryatptu6qfbbfarlsz.streamlit.app/)
 
 <img src="Dashboard.png">
