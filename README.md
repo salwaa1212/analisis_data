@@ -5,7 +5,9 @@
 Repositori ini berisi Analisis Data menggunakan Python dengan Data yang telah disediakan oleh Dicoding dan diimplementasikan menggunakan **Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
 
 ## Clone Repository
-
+```
+git clone https://github.com/salwaa1212/analisis_data.git
+```
 
 ## Setup Environment
 ```
@@ -16,7 +18,7 @@ pip install -r requirements.txt
 
 ## Run Streamlit App
 ```
-cd Dashboard
+cd dashboard
 streamlit run dashboard.py
 ```
 
